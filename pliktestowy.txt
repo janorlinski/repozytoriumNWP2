@@ -4,3 +4,4 @@ Do widzenia
 Lubie plaaacki
 Test 3
 Nowy wiersz
+Test git fetch
